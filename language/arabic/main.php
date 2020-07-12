@@ -1,0 +1,12 @@
+<?php
+define("_MA_SALAT_GETPRAYERS", "ãæÇÞíÊ ÇáÕáÇÉ");
+define("_MA_SALAT_SELECT_CITY", "ÃÎÊÑ ÇáãÏíäÉ");
+define("_MA_SALAT_SELECT_DATE", "ÃÎÊÑ ÇáÊÇÑíÎ");
+define("_MA_SALAT_SELECT_TIMEZONE", "ÃÎÊÑ ÇáãäØÞÉ ÇáÒãäíÉ");
+
+define("_MA_SALAT_PRAYERS_FAJR", "ÇáÝÌÑ");
+define("_MA_SALAT_PRAYERS_SUNRISE", "ÇáÔÑæÞ");
+define("_MA_SALAT_PRAYERS_ZUHR", "ÇáÙåÑ");
+define("_MA_SALAT_PRAYERS_ASR", "ÇáÚÕÑ");
+define("_MA_SALAT_PRAYERS_MAGHRIB", "ÇáãÛÑÈ");
+define("_MA_SALAT_PRAYERS_ISHA", "ÇáÚÔÇÁ");
